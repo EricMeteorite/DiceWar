@@ -1,0 +1,14 @@
+﻿  Dice.cpp
+  DiceWars.cpp
+  Game.cpp
+E:\C++\DiceWar\Game.cpp(272,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(369,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(467,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(575,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(594,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(632,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(901,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\DiceWar\Game.cpp(921,20): warning C4018: “<”: 有符号/无符号不匹配
+  Player.cpp
+  正在生成代码...
+  DiceWar.vcxproj -> E:\C++\DiceWar\Debug\DiceWar.exe

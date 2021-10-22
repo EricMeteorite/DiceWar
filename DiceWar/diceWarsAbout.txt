@@ -1,0 +1,44 @@
+
+===========================================================================================
+                                DiceWars Rules
+===========================================================================================
+"In this dice game, be mentally prepared and use your luck to beat the champion of the Dice Wars!"
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+1.At the beginning of the game, you need to roll six dice. 
+**In this step, the points of each dice thrown by the player should be between 1-6 points. In the 
+rules of the game, the points of the dice thrown are divided into three categories, the first is the 
+case of 1 point and 5 points, the second is the case of 3, 4, 5, and 6 points, and the third is the 
+case of only 1 points.
+---------------------------------------------------------------------------------------------------------
+2.After each roll of the dice, you need to leave at least one or more scoring dice.
+---------------------------------------------------------------------------------------------------------
+3 Then, the player can end the merger and deposit the accumulated points in the bank or continue 
+to throw the remaining dice.
+**In this game, there is a place to store the score of the dice thrown called Bank.
+---------------------------------------------------------------------------------------------------------
+4.If player rolls all six dice and both them can scores points, they have the "hot dice" and can re-roll 
+all six dice to continue their round, thereby increasing the points they have accumulated.
+**At the same time, there is no limit to the number of "hot dice" players can roll in a round.
+---------------------------------------------------------------------------------------------------------
+5.If no dice is scored in any of the dice rolled, the player will lose all points for that round.
+**This situation is called "Farkled". When the player rolls Farkle 3 times in a row, player will be judged 
+as a loser.
+---------------------------------------------------------------------------------------------------------
+6.Like other card games, after the player's turn is over, the dice are handed to the next player or 
+computer, and the game will loop.
+---------------------------------------------------------------------------------------------------------
+7.And the first player to score 5,000 or more points wins the game.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+===========================================================================================
+                                Score Standard
+===========================================================================================
+Each 1: 100 points
+Each 5: 50 points
+The unit after the equal sign is (points)
+1 1 1 = 300   4 4 4 = 400   |   4 of a kind = 1,000 3 pairs = 1,500
+2 2 2 = 200   5 5 5 = 500   |   5 of a kind = 2,000 4 of a kind + Pair = 1,500
+3 3 3 = 300   6 6 6 = 600   |   6 of a kind = 3,000 2 Triplets = 2,500
+FULL STRAIGHT = 1500
+
